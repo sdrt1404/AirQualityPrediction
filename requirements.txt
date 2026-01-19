@@ -1,18 +1,12 @@
-{
-    "PM10": 80,
-    "SO2": 12,
-    "NO2": 35,
-    "CO": 0.9,
-    "O3": 22,
-    "TEMP": 15,
-    "PRES": 1012,
-    "DEWP": 5,
-    "RAIN": 0,
-    "WSPM": 2.5,
-    "wd": "NNW",
-    "year": 2014,
-    "month": 12,
-    "day": 15,
-    "hour": 18,
-    "station": "Changping"
-}
+streamlit
+catboost
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+shap
+fastapi
+uvicorn
+pydantic
+python-dotenv
