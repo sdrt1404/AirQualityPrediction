@@ -39,7 +39,7 @@ st.markdown("""
 # Загрузка данных
 @st.cache_data
 def load_data():
-    df = pd.read_csv("AirQualityChangping.csv")
+    df = pd.read_csv('AirQualityChangping.csv')
     return df
 
 df = load_data()
